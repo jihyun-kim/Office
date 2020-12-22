@@ -6,6 +6,7 @@ Office
 This is your project's README.md file. It helps users understand what your
 project does, how to use it and anything else they may need to know.
 
+=======
 
 Deploy message
 
@@ -13,8 +14,9 @@ Deploy message
 msg : string[16]
 "pyfile not exist"
 
-하지만 확인 요망
-
+=======
+Python Shell 설정방법
+=========
 컨테이넌에 접근
 $ docker exec -it mynodered bash
 $pwd
